@@ -28,8 +28,11 @@
 <body>
     <h1 class="h1">I'AM MARIAM,</h1>
 
-    <h2 class="h2">A PROGRAMMER.</h2><br>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wXTF9fP5zWxhPyQ5TN9miuavAxTUu5a_cw&usqp=CAU"><br>
+    <h2 class="h2">A PROGRAMMER.</h2>
+
+    <h4>💜🧡💛💚💙💗💕💝</h4>
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wXTF9fP5zWxhPyQ5TN9miuavAxTUu5a_cw&usqp=CAU">
 
     <h4>HAVE YOU EVER THOUGHT WHAT PROGRAMMING REALLY IS?</h4>
     <ol>
@@ -56,6 +59,12 @@
   <p>Curious and creative, I am always eager to learn new things. I have a natural atitude for coding and enjoy the challenge of solving problems.
 
      I am self-motivated and always look for new ways to improve my skills. I am passionate about technology and excited about the future of programming.
+
+     I am also a role model for other children, inspiring them to learn about coding.
+    
+     Some of my accomplishments include creating a website for my school, developing a mobile app, and winning first place in a coding competition.
+  </body>
+  </html>
 
      I am also a role model for other children, inspiring them to learn about coding.
     
