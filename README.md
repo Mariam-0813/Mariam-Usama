@@ -27,7 +27,7 @@
 <body>
     <h1 class="h1">I'AM MARIAM,</h1>
 
-    <h2 class="h2">A PROGRAMMER.</h2>s
+    <h2 class="h2">A PROGRAMMER.</h2>
 
     <h4>💜🧡💛💚💙💗💕💝</h4>
     
