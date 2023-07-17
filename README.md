@@ -55,6 +55,19 @@
 
         </ol>
 
+                <ol>
+        <p>Start learning payed programming with:</p><br>
+
+            <li>Coursera</li><br>
+
+            <li>Udemy</li><br>
+          </ol>
+
+       <a href="https://www.coursera.org/">Coursera</a><br>
+       <a href="https://www.udemy.com">Udemy</a><br>
+        
+
+
 
     <h4>MY EXPERIANCE AND HABBITS ABOUT PROGRAMMING</h4>
 
