@@ -10,7 +10,7 @@
         background-color:palevioletred;
       }
       .h1 {
-        font-family: cursive;
+        font-family: sans-serif;
         font-style: italic;
         color: violet;
       } 
