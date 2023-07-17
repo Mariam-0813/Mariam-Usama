@@ -49,6 +49,10 @@
 
             <li>Data Camp</li><br>
 
+            
+       <a href="https://www.khanacademy.org/">Khan Academy</a><br>
+       <a href="https://www.datacamp.com/">Data Camp</a>
+
         </ol>
 
 
