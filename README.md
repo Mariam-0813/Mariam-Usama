@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 
 <head>
     <meta charset="UTF-8">
@@ -36,7 +35,7 @@
 
     <h4>HAVE YOU EVER THOUGHT WHAT PROGRAMMING REALLY IS?</h4>
     <ol>
-        <li>Programming is the process of creating a set of instructions that tells a computer how to perform a task.
+        <li>Programming is the process of creating a set of instructions that tells a computer how to perform a task.</li><br>
       <li>Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.</li><br>
       <li>Programming refers to logical process for telling a computer which tasks to a technolto perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand.</li><br>
     </ol><br>
@@ -45,7 +44,7 @@
 
         <ol>
              
-        <p>start learning programming for free with:</p><br>
+        <p>Start learning programming for free with:</p><br>
 
             <li>Khan Academy</li><br>
 
@@ -63,11 +62,11 @@
      I am also a role model for other children, inspiring them to learn about coding.
     
      Some of my accomplishments include creating a website for my school, developing a mobile app, and winning first place in a coding competition.
-  </body>
-  </html>
 
-     I am also a role model for other children, inspiring them to learn about coding.
-    
-     Some of my accomplishments include creating a website for my school, developing a mobile app, and winning first place in a coding competition.
+     And I hope to win the race of programming with the whole world!</p>
+
+    <img src="">
+
+
   </body>
   </html>
