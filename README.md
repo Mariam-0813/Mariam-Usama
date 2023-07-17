@@ -35,7 +35,7 @@
     <h4>HAVE YOU EVER THOUGHT WHAT PROGRAMMING REALLY IS?</h4>
     <ol>
         <li>Programming is the process of creating a set of instructions that tell a computer how to perform a task. </li>
-      <li>Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.</li><br>
+      <li>Programming can be done using a variety of computer programming languages, such as JavaScript, Python, C++, and Html.</li><br>
       <li>Programming refers to logical process for telling a computer which tasks to a technolto perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand.</li><br>
     </ol><br>
 
