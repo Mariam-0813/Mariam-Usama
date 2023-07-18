@@ -28,7 +28,7 @@
 
     <h2 class="h2">A PROGRAMMER.</h2><br>
 
-    <h4>🧡💛💚💙💜💗💖💝</h4>
+    <h4>🧡💛💚💙💜💖💝</h4>
     
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wXTF9fP5zWxhPyQ5TN9miuavAxTUu5a_cw&usqp=CAU"><br>
 
