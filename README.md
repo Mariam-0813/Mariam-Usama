@@ -80,6 +80,15 @@
 
   </ul>
 
+ <h4>HOW MUCH TIME DOES IT TAKE ME TO MAKE A WEBSITE?</h4>
+
+ It Takes Me About 5 minutes To Make A Website!<br><br>
+
+ I Learnt Making A Website In 5 Minutes By Watching A Video!<br><br>
+
+ <a href="https://www.youtube.com/watch?v=ghZZB_7HFS8">Video</a>
+
+
  <h4>WHAT I WISH TO DO IN THE FUTURE?</h4>
 
  <ol>
